@@ -4,3 +4,8 @@ maintainence documents, security
 
 
 https://www.restoredentja.com/appointment/
+
+git push -u origin main
+git clone https://github.com/your-username/your-repo-name.git
+Username: your-username
+Password: <paste-your-PAT-here>
